@@ -1,3 +1,3 @@
 # github-pages
-criando site do portifolio
-Nessa area estamos desenvolvendo o portfólio pessoal e profissicional do bootcamp 
+Criando site do portfólio
+Nessa area estou desenvolvendo o portfólio pessoal e profissicional do bootcamp 
